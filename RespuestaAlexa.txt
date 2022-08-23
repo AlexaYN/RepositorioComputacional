@@ -1,0 +1,4 @@
+la letra G se encuentra un total de: 5 veces
+la letra A se encuentra un total de: 10 veces
+la letra T se encuentra un total de: 10 veces
+la letra C se encuentra un total de: 5 veces
