@@ -1,4 +1,6 @@
-la letra G se encuentra un total de: 5 veces
-la letra A se encuentra un total de: 10 veces
-la letra T se encuentra un total de: 10 veces
-la letra C se encuentra un total de: 5 veces
+la cadena de nucleotidos numero 1 cuenta con: 14833 nucleotidos
+la cadena de nucleotidos numero 2 cuenta con: 1138 nucleotidos
+la cadena de nucleotidos numero 3 cuenta con: 3230 nucleotidos
+la cadena de nucleotidos numero 4 cuenta con: 5281 nucleotidos
+la cadena de nucleotidos numero 5 cuenta con: 3614 nucleotidos
+la cadena de nucleotidos numero 6 cuenta con: 1783 nucleotidos
